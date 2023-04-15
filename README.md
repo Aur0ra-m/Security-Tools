@@ -471,7 +471,7 @@
 | 项目简介      | 项目地址                         | 项目名称 |
 | ------------- | -------------------------------- | -------- |
 | Linux自动提权 | https://github.com/liamg/traitor | traitor  |
-|               |                                  |          |
+| Windows自动提权|     https://github.com/BeichenDream/GodPotato      |   GodPotato       |
 |               |                                  |          |
 
 ## 内网收集工具
